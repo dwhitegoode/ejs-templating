@@ -1,0 +1,50 @@
+{
+
+"Mercury": [
+    {
+        "Distance": 69816900
+    }
+],
+"Venus": [
+    {        
+        "Distance": 108939000
+    }
+    
+],
+"Earth": [
+    {
+        "Distance": 152100000
+    }
+],
+"Mars": [
+    {
+        "Distance": 249209300
+    }
+],
+"Jupiter": [
+    {
+        "Distance": 816520800
+    }
+],
+"Saturn": [
+    {
+        "Distance": 1513325783
+    }
+],
+"Uranus": [
+    {
+        "Distance": 0
+		}
+],
+"Neptune": [
+    {
+        "Distance": 4553946490
+    }
+],
+"AlphaB": [
+	{
+		"Distance": 44.31e+15
+	}
+]
+
+}
